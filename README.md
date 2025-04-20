@@ -2,3 +2,7 @@
 - https://www.youtube.com/watch?v=-_-kvPiMybw
 - npm i zustand
 - npm i zod
+- npm i prisma -D
+- npm i @prisma/client
+- HE THEN SETUP WITH VERCEL
+- 
